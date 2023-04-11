@@ -10,5 +10,6 @@ a:hover {
     text-decoration: underline;
 }
 a {
-    color: #ffffff!important;
+    color: #000000!important;
+    font-weight: bold;
 }
